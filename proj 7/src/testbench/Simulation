@@ -1,0 +1,1 @@
+iverilog -o half_subtractor_sim src/half_subtractor.v testbench/half_subtractor_tb.v
